@@ -4,3 +4,8 @@
 <br>
 
 Link to My website: https://travel-trails-website.vercel.app/
+
+![travel-main](https://github.com/user-attachments/assets/2001af4d-837e-4b0f-8422-406e01d33840)
+![travel-about](https://github.com/user-attachments/assets/e97d78b8-0f0e-4750-89ac-333b1b8bf108)
+![travel-service](https://github.com/user-attachments/assets/74469449-c6ce-4042-871a-8a27067b7984)
+![travel-tour](https://github.com/user-attachments/assets/76bb7f70-f351-41d6-9eb8-b7bb527491ac)
